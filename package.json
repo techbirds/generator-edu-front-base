@@ -1,12 +1,12 @@
 {
   "name": "generator-edu-front-base",
-  "version": "0.0.0",
-  "description": "",
-  "homepage": "",
+  "version": "0.0.1",
+  "description": "A edu front base",
+  "homepage": "https://github.com/techbirds/generator-edu-front-base.git",
   "author": {
     "name": "dong.wang",
     "email": "itechbirds@gmail.com",
-    "url": ""
+    "url": "https://github.com/techbirds/"
   },
   "files": [
     "generators"
@@ -40,10 +40,7 @@
     "testEnvironment": "node"
   },
   "scripts": {
-    "prepublish": "nsp check",
-    "pretest": "eslint .",
-    "precommit": "lint-staged",
-    "test": "jest"
+    "prepublish": "nsp check"
   },
   "lint-staged": {
     "*.js": [
@@ -78,5 +75,5 @@
     ]
   },
   "repository": "techbirds/generator-edu-front-base",
-  "license": "Apache-2.0"
+  "license": "MIT"
 }

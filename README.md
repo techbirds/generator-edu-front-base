@@ -1,4 +1,4 @@
-# generator-edu-front-base [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-edu-front-base [![Build Status][travis-image]][travis-url]
 > 
 
 ## Installation
@@ -25,8 +25,7 @@ yo edu-front-base
 
 ## License
 
-Apache-2.0 © [dong.wang]()
-
+MIT © [dong.wang]()
 
 [npm-image]: https://badge.fury.io/js/generator-edu-front-base.svg
 [npm-url]: https://npmjs.org/package/generator-edu-front-base
