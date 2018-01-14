@@ -40,7 +40,9 @@
     "testEnvironment": "node"
   },
   "scripts": {
-    "prepublish": "nsp check"
+    "prepublish": "nsp check",
+    "precommit": "lint-staged",
+    "test": "jest"
   },
   "lint-staged": {
     "*.js": [
