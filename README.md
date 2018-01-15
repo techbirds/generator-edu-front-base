@@ -1,6 +1,15 @@
 # generator-edu-front-base [![Build Status][travis-image]][travis-url]
 > 
 
+## Structure
+
+```
+.
+├── .editorconfig
+├── .eslintrc.json
+└── .gitignore
+```
+
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-edu-front-base using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
